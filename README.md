@@ -7,8 +7,11 @@ Hi this is a  Simple banking system
   Commands 
   
   pkg install python curl -y
+  
   curl https://raw.githubusercontent.com/computermaster95/Mazebank-python/main/Bank.py > bank
+  
   chmod +x bank
+  
   python3 bank
   
   
